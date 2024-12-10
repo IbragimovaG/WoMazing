@@ -1,0 +1,8 @@
+.arr{
+    display: none;
+    transition: 5s;
+}
+
+.z-40:hover .arr{
+    display: block;
+}
